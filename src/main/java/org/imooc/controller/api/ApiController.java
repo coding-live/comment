@@ -66,4 +66,5 @@ public class ApiController {
 		resultMap.put("msg ", "ok");
 		return resultMap;
 	}
+	
 }
